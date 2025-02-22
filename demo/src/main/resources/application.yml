@@ -1,0 +1,19 @@
+simulation:
+  gridHeight: 20
+  gridWidth: 20
+  propagationProbability: 0.7
+
+spring:
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+

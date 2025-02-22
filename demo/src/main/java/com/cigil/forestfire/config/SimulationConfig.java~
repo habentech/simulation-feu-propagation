@@ -1,0 +1,4 @@
+package com.cigil.forestfire.config;
+
+public class SimulationConfig {
+}
